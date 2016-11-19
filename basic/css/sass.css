@@ -16,3 +16,8 @@
   background-color: #e4749e;
   float: right;
 }
+.reset {
+  @extend .dialog-button;
+  background-color: #123456;
+  float: right;
+}
